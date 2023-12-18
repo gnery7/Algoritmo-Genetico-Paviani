@@ -3,7 +3,7 @@ Este projeto é uma iniciativa inovadora que foca na integração e teste do **A
 
 ## :busts_in_silhouette: Autores
 - **Geovanne Pelozone Nery**
-- **Nichollas de Farias Leonides dos Santos**
+- **Luiz Ricardo Favaro**
 
 ## :school: Universidade
 - **Universidade Santa Cecília** - Engenharia de Computação
