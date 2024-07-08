@@ -27,6 +27,3 @@ Este projeto é uma iniciativa inovadora que foca na integração e teste do **A
 ## :bookmark_tabs: Conclusão
 - O Algoritmo Genético de Paviani é uma ferramenta valiosa para soluções de otimização robustas e dinâmicas.
 - O projeto fornece um modelo para futuras pesquisas e aplicações práticas em otimização algorítmica e engenharia de software.
-
-## :handshake: Como Contribuir
-- Contribuições são bem-vindas! Envie um pull request com suas sugestões ou abra uma issue para discussão.
